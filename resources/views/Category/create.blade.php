@@ -1,0 +1,13 @@
+@extends('create')
+@section('title')
+{{'Category'}}
+@endsection
+@section('title2')
+{{'Category'}}
+@endsection
+@section('title3')
+{{'Category'}}
+@endsection()
+@section('title4')
+{{'/categorys'}}
+@endsection()

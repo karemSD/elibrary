@@ -1,0 +1,13 @@
+@extends('create')
+@section('title')
+{{'Publisher'}}
+@endsection
+@section('title2')
+{{'Publisher'}}
+@endsection
+@section('title3')
+{{'Publisher'}}
+@endsection()
+@section('title4')
+{{'/publishers'}}
+@endsection()
